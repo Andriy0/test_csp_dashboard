@@ -11,7 +11,7 @@
 # It's strongly recommended that you check this file into your version control system.
 
 ActiveRecord::Schema[7.0].define(version: 2023_02_16_180007) do
-  create_table "csp_dashboard_violation_reports", force: :cascade do |t|
+  create_table "csp_dashboard_violation_reports", charset: "utf8mb3", force: :cascade do |t|
     t.text "blocked_uri"
     t.string "disposition"
     t.text "document_uri"
