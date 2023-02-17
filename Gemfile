@@ -14,6 +14,8 @@ gem "sprockets-rails"
 
 gem 'mysql2'
 
+gem 'postgresql'
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
