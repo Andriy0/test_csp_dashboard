@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Andriy0/csp_dashboard.git
-  revision: d6a123662b62128f2b0bfb563bfae769a87d2d2c
+  revision: 524c3293b5ab4a1b95c09f51d2d4a3004ced00bf
   specs:
     csp_dashboard (0.1.0)
       bootstrap
