@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Andriy0/csp_dashboard.git
-  revision: 5aebdcde97690aa2b1cc094ca9f2d706b3d5aae2
+  revision: d6a123662b62128f2b0bfb563bfae769a87d2d2c
   specs:
     csp_dashboard (0.1.0)
       bootstrap
@@ -263,7 +263,7 @@ GEM
     sqlite3 (1.6.3-x86_64-linux)
     stimulus-rails (1.2.1)
       railties (>= 6.0.0)
-    temple (0.10.1)
+    temple (0.10.2)
     thor (1.2.2)
     tilt (2.1.0)
     timeout (0.3.2)
